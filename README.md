@@ -6,6 +6,7 @@ https://drive.google.com/file/d/16S7NMYxlgvN4sU5GDrFFBGxWHUuyV_e8/view?usp=drive
 
 ## 소개 및 시연 영상
 [![Video Label](http://img.youtube.com/vi/pgac-XwhqJE/0.jpg)](https://www.youtube.com/watch?v=pgac-XwhqJE)
+
 https://www.youtube.com/watch?v=pgac-XwhqJE
 
 ## 개발 환경
